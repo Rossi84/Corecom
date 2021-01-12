@@ -1,0 +1,90 @@
+Udienza
+=======
+
+Il responsabile del procedimento, se necessario, potrà convocare un'udienza per il procedimento di definizione.
+
+.. figure:: /media/barra_azioni_udienza_gu14.png
+   :align: center
+   :name: barra-azioni-udienza-gu14
+   :alt: Udienza procedimento di definizione barra azioni
+   
+   Azioni - Convocazione udienza per procedimento di definizione
+
+Dalla barra delle azioni premere "Azioni sull'udienza" e poi "Richiesta udienza". Inserire i campi richiesti, premere "Convoca udienza" e confermare.
+
+Per i Corecom l'udienza può essere convocata solo in modalità esterna, mentre per Agcom la convocazione è mediante virtual room.
+
+Differimento udienza
+~~~~~~~~~~~~~~~~~~~~
+
+Il responsabile del procedimento potrà disporre un differimento dell'udienza fino al giorno prima dell'udienza convocata.
+
+Per fare ciò premere l'azione "Azioni sull'udienza" dalla barra delle azioni e poi "Chiedi differimento udienza".
+
+Qualora una delle parti richieda il differimento dell'udienza la richiesta verrà mostrata sul :ref:`fascicolo documentale <section-fascicolo-documentale>`.
+Tale richiesta potrà essere accettata o rifiutata premendo l'azione "Azioni sull'udienza" dalla barra delle azioni e poi "Gestione udienze".
+
+.. figure:: /media/gestione_rich_differimento.png
+   :align: center
+   :name: gestione-rich-differimento
+   :alt: Gestione richiesta differimento
+   
+   Gestione richiesta differimento
+
+Da qui è possibile indicare un'altra data e rifiutare la richiesta di differimento, se presente.
+
+Partecipazione all'udienza
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. _section-udienza-vr-gu14:
+
+Terminata l'udienza le azioni possibili sono:
+- *Verbalizza avvenuta conciliazione*
+- *Verbalizza esito negativo*
+- *Verbalizza rinvio udienza*
+
+Rinvio udienza
+~~~~~~~~~~~~~~
+
+Successivamente all'udienza, se necessario, è possibile rinviarla ad altra data.
+
+.. figure:: /media/barra_azioni_udienza_gu14_post.png
+   :align: center
+   :name: barra-azioni-udienza-gu14-post
+   :alt: Rinvio udienza barra azioni
+   
+   Azioni - Rinvio udienza
+
+Premere su "Verbalizza rinvio udienza", confermare, compilare i campi richiesti, procedere alla :ref:`firma <section-firma>` e premere "Invia".
+Se viene premuta e confermata l'azione di rinvio, il sistema attende il completamento di tale azione con la generazione del verbale e non consente di effettuare altre operazioni relative all'udienza fino a tale completamento.
+
+Accordo
+~~~~~~~
+
+Successivamente all'udienza, se è stato raggiunto l'accordo tra tutte le parti, il responsabile del procedimento può redigere il verbale di accordo.
+
+.. figure:: /media/barra_azioni_udienza_gu14_post.png
+   :align: center
+   :name: barra-azioni-udienza
+   :alt: Accordo barra azioni
+   
+   Azioni - Accordo
+
+Premere su "Verbalizza avvenuta conciliazione", confermare, compilare i campi richiesti, premere "Avanti", verrà così mostrato il verbale e si potrà variarlo se necessario. Premere "Genera" e confermare.
+
+Il verbale dovrà essere firmato dalle parti e successivamente potrà firmarlo il responsabile del procedimento.
+
+Mancata accordo
+~~~~~~~~~~~~~~~
+
+Successivamente all'udienza, se non è stato raggiunto l'accordo, il responsabile del procedimento può redigere il verbale di mancato accordo.
+
+.. figure:: /media/barra_azioni_udienza_gu14_post.png
+   :align: center
+   :name: barra-azioni-udienza
+   :alt: Manacato o parziale accordo barra azioni
+   
+   Azioni - Mancato o parziale accordo
+
+Premere su "Verbalizza esito negativo", confermare, compilare i campi richiesti, premere "Avanti", verrà così mostrato il verbale e si potrà variarlo se necessario. Premere "Genera" e confermare.
+Il responsabile del procedimento dovrà apporre la :ref:`firma <section-firma>`.

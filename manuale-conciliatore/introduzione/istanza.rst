@@ -6,7 +6,9 @@ In questa sezione vengono descritte le operazioni comuni alle varie tipologie di
 Assegnazione conciliatore/responsabile del procedimento
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Gli utenti con ruolo "Segretario Corecom/Agcom" dovranno assegnare un utente responsabile per ciascun procedimento. L'utente assegnato sarà coloui che potrà operare sull'istanza.
+.. _section-responsabile:
+
+Gli utenti con ruolo "Segretario Corecom/Agcom" o "Direttore Corecom/Agcom" dovranno assegnare un utente responsabile per ciascun procedimento. L'utente assegnato sarà coloui che potrà operare sull'istanza.
 
 L'utente assegnato può essere variato se necessario.
 
