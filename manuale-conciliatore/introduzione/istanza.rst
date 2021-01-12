@@ -22,6 +22,20 @@ L'utente assegnato può essere variato se necessario.
 Per assegnare un utente o variare quello presente premere su "Assegna responsabile" dalla barra delle azioni. Selezionare l'utente desiderato e premere "Assegna".
 Per le istanze di definizione, alla prima assegnazione sarà necessario procedere anche con la :ref:`firma <section-firma>`.
 
+Integrazione altro operatore
+============================
+
+Il conciliatore/responsabile può integrare il procedimento coinvolgendo uno o più altri operatori.
+
+.. figure:: /media/barra_azioni_integrazione.png
+   :align: center
+   :name: barra-azioni-integrazione
+   :alt: Integrazione barra azioni
+   
+   Azioni - Integrazione
+
+Premere "Integra il contraddittorio" dalla barra delle azioni, confermare. Selezionare gli operatori desiderati e :ref:`firmare <section-firma>`.
+
 Archiviazione
 ~~~~~~~~~~~~~
 
