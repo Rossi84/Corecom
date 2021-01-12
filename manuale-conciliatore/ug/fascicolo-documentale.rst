@@ -1,6 +1,8 @@
 Fascicolo documentale
 =====================
 
+.. _section-fascicolo-documentale:
+
 Tutti i documenti relativi al procedimento sono visibili nel fascicolo documentale. Tale sezione è consultabile premendo il seguente pulsante dalla barra delle azioni:
 
 .. figure:: /media/barra_azioni_fascicolo.png

@@ -23,9 +23,4 @@ Entrando nel dettaglio del procedimento è possibile accedere alla barra delle a
 
   ug/fascicolo-documentale.rst
   ug/negoziazione.rst
-  
-  ug/rinuncia.rst
-  ug/integrazione.rst
-  ug/provvedimento.rst
   ug/udienza.rst
-  ug/firma.rst
