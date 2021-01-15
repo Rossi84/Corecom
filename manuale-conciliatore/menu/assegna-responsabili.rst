@@ -3,7 +3,7 @@ Assegna responsabili
 
 Questa voce di menù è presente per gli utenti con profilo *Segretario Corecom/Agcom* o *Direttore Corecom/Agcom*.
 
-Viene presentato un calendario suddiviso in settimana a partire dalla settimana in corso vengono visualizzate i procedimenti in corrispondenza della data dell'udienza (slot) a cui deve essere assegnato un conciliatore/responsabile.
+Viene presentato un calendario suddiviso in settimane, a partire dalla settimana in corso vengono visualizzate i procedimenti in corrispondenza della data dell'udienza (slot) a cui deve essere assegnato un conciliatore/responsabile.
 
 Le giornate sono suddivise per slot di 30 minuti e in uno slot ci possono essere più udienze contemporanee.
 
