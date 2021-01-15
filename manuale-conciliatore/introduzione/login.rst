@@ -1,11 +1,9 @@
 Login
 ==========
 
-**Nota bene**: per tutti gli utenti Corecom/Agcom è obligatorio l'accesso SPID.
+.. nota::
 
-.. epigraph::
-
-   Per tutti gli utenti Corecom/Agcom è obligatorio l'accesso SPID.
+   Per tutti gli utenti Corecom/Agcom è obligatorio l'accesso SPID. L'account deve essere riferito a persona fisica.
 
 Per accedere a ConciliaWeb, una volta profilati nel sistema, è necessario possedere un profilo SPID.
 
