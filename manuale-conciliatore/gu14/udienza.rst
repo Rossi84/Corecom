@@ -39,6 +39,7 @@ Partecipazione all'udienza
 .. _section-udienza-vr-gu14:
 
 Terminata l'udienza le azioni possibili sono:
+
 - *Verbalizza avvenuta conciliazione*
 - *Verbalizza esito negativo*
 - *Verbalizza rinvio udienza*

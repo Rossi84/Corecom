@@ -56,6 +56,7 @@ Partecipazione all'udienza in virtual room
 Nel caso in cui l'udienza sia in virtual room, il giorno dell'udienza compariranno sul dettaglio del procedimento il link e il numero di telefono per parteciparvi.
 
 Terminata l'udienza le azioni possibili sono:
+
 - *Verbalizza avvenuta conciliazione*
 - *Verbalizza esito negativo*
 - *Verbalizza mancata comparizione*

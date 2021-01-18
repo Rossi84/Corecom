@@ -6,11 +6,8 @@ Questo capitolo descrive le funzionalità base messe a disposizione per il perso
 I ruoli a disposizione per le figure di Corecom ed Agcom sono:
 
 - **Guest**: visualizza tutti i procedimenti del soggetto di appartenenza, che sia un Corecom o Agcom, senza poter compiere alcuna operazione.
-
 - **Responsabile Corecom/Agcom**: gestisce il procedimento in qualità di conciliatore o responsabile del procedimento. Le utenze con tale ruolo hanno visibilità dei soli procedimenti a loro assegnati.
-
 - **Segretario Corecom/Agcom**: gestisce il procedimento in qualità di conciliatore o responsabile del procedimento. Si occupa dell'assegnazione dei conciliatori/responsabili dei procedimenti. Ha la visibilità di tutti i procedimenti relativi al Corecom/Agcom. Gestisce gli utenti del Coreom/Agcom.
-
 - **Direttore Corecom/Agcom**: ha gli stessi poteri del segretario. In aggiuntà gestisce le archiviazioni.
 
 Per poter accedere al sistema è necessario che un utente con ruolo segretario o direttore profili l'utenza nel sistema.

@@ -13,7 +13,7 @@ Decorsi i termini per il caricamento delle memorie e controdeduzioni, il respons
 Per procedere alla stesura della relazione istruttoria premere "Genera relazione istruttoria" dalla barra delle azioni e confermare.
 Una volta confermata il sistema è in attesa della stesura della relazione istruttoria e non è più possibile compiere le azioni consentite nella fase di caricamento memorie e controdeduzioni.
 
-.. figure:: /media/relazione-istruttoria.png
+.. figure:: /media/relazione_istruttoria.png
    :align: center
    :name: relazione-istruttoria
    :alt: Relazione istruttoria
