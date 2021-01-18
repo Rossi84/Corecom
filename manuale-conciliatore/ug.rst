@@ -4,7 +4,7 @@ Istanza di conciliazione (Modello UG)
 In questa sezione saranno analizzate le azioni possibili sui singoli procedimenti di conciliazione, in funzione dello stato in cui si trova il procedimento e da chi possono essere fatte.
 
 L'applicazione mostrerà solo i pulsanti delle operazioni permesse tenendo presente lo stato del procedimento e il ruolo di chi sta visulaizzado il procedimento:
-- *Guest*: può solo visualizzare i dati della conciliazione senza poter compiere alcuna operazione.
+- **Guest**: può solo visualizzare i dati della conciliazione senza poter compiere alcuna operazione.
 - **Responsabile Corecom/Agcom**: può compiere tutte le azioni, ad esclusione di quelle riservate al Direttore, sulle conciliaizoni a lui assegnate.
 - **Segretario Corecom/Agcom**: può compiere tutte le azioni, ad esclusione di quelle riservate al Direttore, sulle conciliaizoni del soggetto di appartenenza.
 - **Direttore Corecom/Agcom**: può compiere tutte le azioni sulle conciliaizoni del soggetto di appartenenza.

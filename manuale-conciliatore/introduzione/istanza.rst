@@ -23,7 +23,7 @@ Per assegnare un utente o variare quello presente premere su "Assegna responsabi
 Per le istanze di definizione, alla prima assegnazione sarà necessario procedere anche con la :ref:`firma <section-firma>`.
 
 Integrazione altro operatore
-============================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Il conciliatore/responsabile può integrare il procedimento coinvolgendo uno o più altri operatori.
 
