@@ -1,7 +1,7 @@
 Login
 ==========
 
-.. nota::
+.. important::
 
    Per tutti gli utenti Corecom/Agcom è obligatorio l'accesso SPID. L'account deve essere riferito a persona fisica.
 
