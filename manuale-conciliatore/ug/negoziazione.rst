@@ -10,8 +10,8 @@ Per le istanze per cui è prevista la fase di negoziazione, sarà presente sulla
    
    Azioni - Negoziazione
 
-Negoziazione semplificata
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Conciliazione semplificata
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Per i procedimenti per cui è prevista, se non si raggiunge l'accordo nella fase di negoziazione diretta, la conciliazione procede con l'aiuto del conciliatore.
 
