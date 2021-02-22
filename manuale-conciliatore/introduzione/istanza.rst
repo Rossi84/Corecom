@@ -22,6 +22,24 @@ L'utente assegnato può essere variato se necessario.
 Per assegnare un utente o variare quello presente premere su "Assegna responsabile" dalla barra delle azioni. Selezionare l'utente desiderato e premere "Assegna".
 Per le istanze di definizione, alla prima assegnazione sarà necessario procedere anche con la :ref:`firma <section-firma>`.
 
+E' possibile assegnare lo stesso utente resposabile a più istanze selezionandole dalla lista e poi premendo "Assegna".
+
+.. figure:: /media/assegnazione_multipla_responsabile.png
+   :align: center
+   :name: assegnazione-multipla-responsabile
+   :alt: Assegnazione multipla responsabile
+   
+   Assegnazione multipla conciliatore/responsabile del procedimento
+
+Selezionare l'utente e inserire i parametri per la firma. Premere "Assegna".
+
+.. figure:: /media/selezione_responsabile.png
+   :align: center
+   :name: selezione-responsabile
+   :alt: Selezione responsabile
+   
+   Selezione conciliatore/responsabile dei procedimenti
+
 Integrazione altro operatore
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

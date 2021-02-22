@@ -9,3 +9,10 @@ Permette al Corecom/Agcom di definire la disponibilità di fare udienze nei vari
 
 Per facilitare l'inserimento degli operatori gestiti nel calendario, la settimana che si sta
 visualizzando può essere clonata in una o più settimana dell'anno selezionando le opportune settimane mediante il bottone "Copia".
+
+.. figure:: /media/calendario.png
+   :align: center
+   :name: calendario
+   :alt: Calendario
+   
+   Calendario   
