@@ -59,33 +59,47 @@ Successivamente all'udienza, se necessario, è possibile rinviarla ad altra data
 Premere su "Verbalizza rinvio udienza", confermare, compilare i campi richiesti, procedere alla :ref:`firma <section-firma>` e premere "Invia".
 Se viene premuta e confermata l'azione di rinvio, il sistema attende il completamento di tale azione con la generazione del verbale e non consente di effettuare altre operazioni relative all'udienza fino a tale completamento.
 
-Accordo
-~~~~~~~
+Verbalizzazione avvenuta conciliazione
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Successivamente all'udienza, se è stato raggiunto l'accordo tra tutte le parti, il responsabile del procedimento può redigere il verbale di accordo.
 
 .. figure:: /media/barra_azioni_udienza_gu14_post.png
    :align: center
    :name: barra-azioni-udienza
-   :alt: Accordo barra azioni
+   :alt: Avvenuta conciliaizone barra azioni
    
-   Azioni - Accordo
+   Azioni - Avvenuta conciliazione
 
 Premere su "Verbalizza avvenuta conciliazione", confermare, compilare i campi richiesti, premere "Avanti", verrà così mostrato il verbale e si potrà variarlo se necessario. Premere "Genera" e confermare.
 
 Il verbale dovrà essere firmato dalle parti e successivamente potrà firmarlo il responsabile del procedimento.
 
-Mancata accordo
-~~~~~~~~~~~~~~~
+.. figure:: /media/gu14_accordo.png
+   :align: center
+   :name: accodo
+   :alt: Avvenuta conciliazione
+   
+   Avvenuta conciliazione
 
-Successivamente all'udienza, se non è stato raggiunto l'accordo, il responsabile del procedimento può redigere il verbale di mancato accordo.
+Verbalizzazione esito negativo
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Successivamente all'udienza, se non è stato raggiunto l'accordo, il responsabile del procedimento può redigere il verbale di mancato o parziale accordo.
 
 .. figure:: /media/barra_azioni_udienza_gu14_post.png
    :align: center
    :name: barra-azioni-udienza
-   :alt: Manacato o parziale accordo barra azioni
+   :alt: Esito negativo barra azioni
    
-   Azioni - Mancato o parziale accordo
+   Azioni - Esito negativo
 
 Premere su "Verbalizza esito negativo", confermare, compilare i campi richiesti, premere "Avanti", verrà così mostrato il verbale e si potrà variarlo se necessario. Premere "Genera" e confermare.
 Il responsabile del procedimento dovrà apporre la :ref:`firma <section-firma>`.
+
+.. figure:: /media/gu14_mancato_accordo.png
+   :align: center
+   :name: esito-negativo
+   :alt: Esito negativo
+   
+   Esito negativo

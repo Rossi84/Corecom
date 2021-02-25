@@ -69,7 +69,7 @@ Successivamente all'udienza, se necessario, è possibile rinviarla ad altra data
 
 .. figure:: /media/barra_azioni_udienza.png
    :align: center
-   :name: barra-azioni-udienza
+   :name: rinvio-udienza
    :alt: Rinvio udienza barra azioni
    
    Azioni - Rinvio udienza
@@ -84,41 +84,62 @@ Successivamente all'udienza, se l'istante o il suo delegato non hanno preso part
 
 .. figure:: /media/barra_azioni_udienza.png
    :align: center
-   :name: barra-azioni-udienza
+   :name: barra-azioni-mancata-comparizione
    :alt: Manacata comparizione barra azioni
    
    Azioni - Mancata comparizione
 
 Premere su "Verbalizza mancata comparizione", confermare, compilare i campi richiesti, premere "Avanti", verrà così mostrato il verbale e si potrà variarlo se necessario. Premere "Genera" e confermare. Inserire le credenziali per la firma remota e premere "Invia".
- 
-Accordo
-~~~~~~~
+
+.. figure:: /media/mancata_comparizione.png
+   :align: center
+   :name: mancata-comparizione
+   :alt: Manacata comparizione
+   
+   Mancata comparizione
+
+Verbalizzazione avvenuta conciliazione 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Successivamente all'udienza, se è stato raggiunto l'accordo, il conciliatore può redigere il verbale di accordo.
 
 .. figure:: /media/barra_azioni_udienza.png
    :align: center
-   :name: barra-azioni-udienza
-   :alt: Accordo barra azioni
+   :name: barra-azioni-accordo
+   :alt: Avvenuta conciliazione barra azioni
    
-   Azioni - Accordo
+   Azioni - Avvenuta conciliazione
 
 Premere su "Verbalizza avvenuta conciliazione", confermare, compilare i campi richiesti, premere "Avanti", verrà così mostrato il verbale e si potrà variarlo se necessario. Premere "Genera" e confermare.
 
 Il verbale dovrà essere firmato dalle parti e successivamente potrà firmarlo il conciliatore.
 
-Mancata accordo
-~~~~~~~~~~~~~~~
+.. figure:: /media/ug_accordo.png
+   :align: center
+   :name: accodo
+   :alt: Avvenuta conciliazione
+   
+   Avvenuta conciliazione
 
-Successivamente all'udienza, se non è stato raggiunto l'accordo, il conciliatore può redigere il verbale di mancato accordo.
+Verbalizzazione esito negativo
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Successivamente all'udienza, se non è stato raggiunto l'accordo, il conciliatore può redigere il verbale di mancato o parziale accordo.
 
 .. figure:: /media/barra_azioni_udienza.png
    :align: center
-   :name: barra-azioni-udienza
-   :alt: Manacato accordo barra azioni
+   :name: barra-azioni-mancato-accordo
+   :alt: Esito udienza barra azioni
    
-   Azioni - Mancato accordo
+   Azioni - Esito negativo
 
 Premere su "Verbalizza esito negativo", confermare, compilare i campi richiesti, premere "Avanti", verrà così mostrato il verbale e si potrà variarlo se necessario. Premere "Genera" e confermare.
 
 Il verbale dovrà essere firmato dalle parti e successivamente potrà firmarlo il conciliatore.
+
+.. figure:: /media/ug_mancato_accordo.png
+   :align: center
+   :name: esito-negativo
+   :alt: Esito negativo
+   
+   Esito negativo
