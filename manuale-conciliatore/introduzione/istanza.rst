@@ -108,6 +108,18 @@ Per procedere al rifiuto premere "Rifiuta inammissibilità/improcedibilità", se
 Per procedere invece all'archiviazione per inammissibilità premere "Archiviazione per inammissibilità/improcedibilità", selezionare l'operatore e confermare. Verrà mostrato il verbale di archiviazione, da qui è possibile modificarlo se necessario. Premere "Genera" e confermare.
 Il varbale di archiviazione dovrà essere firmato tramite l'apposita icona sulla barra delle azioni da chi di competenza.
 
+Attestazione impossibilità di firma
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Nel caso in cui una delle parti sia impossibilitata alla firma del verbale, il conciliatore/responsabile dell'istanza potrà attestare tale impossibilità premendo sull'apposito pulsante sulla barra delle azioni.
+
+.. figure:: /media/barra_azioni_nofirma.png
+   :align: center
+   :name: barra-azioni-nofirma
+   :alt: Attestazione impossibilità di firma barra azioni
+   
+   Azioni - Attestazione impossibilità di firma
+
 Download fascicolo documentale
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
