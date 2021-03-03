@@ -15,3 +15,15 @@ Per accedere premere il bottone "Entra con SPID", selezionare il provider fornit
    :alt: Login
 
    Login
+
+Selezione profilo
+~~~~~~~~~~~~~~~~~
+
+Nel caso in cui si disponga di più profili in ConciliaWeb è possibile selezionare quello con cui operare premendo sul proprio nome in alto a destra e scegliendo dalla tendina quello desiderato. 
+
+.. figure:: /media/sel_profilo.png
+   :align: center
+   :name: sel-profilo
+   :alt: Selezione profilo
+
+   Selezione profilo
