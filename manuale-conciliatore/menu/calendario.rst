@@ -16,3 +16,6 @@ visualizzando può essere clonata in una o più settimana dell'anno selezionando
    :alt: Calendario
    
    Calendario   
+
+La clonazione dei tavoli settimanali potrà avvenire anche in presenza di udienze convocate sui tavoli presenti prima della clonazione sulla settimana destinatario. Qualora il tavolo in cui vi è un'udienza convocata non sia più presente dopo la clonazione, l'udienza rimarrà convocata per tale giorno e sarà quindi in aggiunta a quelle che verranno pianificate sui nuovi tavoli.
+ 
