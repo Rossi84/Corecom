@@ -10,6 +10,6 @@ Al termine dell'iter previsto per le istanze di provvedimento temporaneo, il res
    
    Azioni - Provvedimento finale
 
-In base all'esito il responsabile del provvedimento può selezionare "Redigi provvedimento temporaneo" o "Redigi provvedimento di rigetto", confermare e formulare così la bozza di provvdimento.
+In base all'esito il responsabile del provvedimento può selezionare "Redigi provvedimento temporaneo" o "Redigi provvedimento di rigetto", confermare e formulare così la bozza di provvedimento.
 
 Tale bozza sarà poi confermata o completata dal direttore che ne apporrà anche la :ref:`firma <section-firma>`.

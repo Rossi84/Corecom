@@ -50,7 +50,7 @@ Se il conciliatore ritiene che l'accordo non possa essere raggiunto può avanzar
 
 Premere il pulsante "Proposta di mancato accordo" e confermare. Se una delle parti accetta la proposta di mancato accordo, oppure nessuna delle parti si esprime entro il termine, il conciliatore potrà redigere il verbale di mancato accordo.
 
-Per generare il verbale di mancato accordo premere l'apposita icona dalla barra delle azioni e confemare. Inserire i campi richiesti.
+Per generare il verbale di mancato accordo premere l'apposita icona dalla barra delle azioni e confermare. Inserire i campi richiesti.
 
 .. figure:: /media/mancato_accordo_campi.png
    :align: center

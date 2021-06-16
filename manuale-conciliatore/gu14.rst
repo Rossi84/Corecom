@@ -3,7 +3,7 @@ Istanza di definizione (Modello GU14)
 
 In questa sezione saranno analizzate le azioni possibili sui singoli procedimenti di definizione, in funzione dello stato in cui si trova il procedimento e da chi possono essere fatte.
 
-L'applicazione mostrerà solo i pulsanti delle operazioni permesse tenendo presente lo stato del procedimento e il ruolo di chi sta visulaizzando il procedimento:
+L'applicazione mostrerà solo i pulsanti delle operazioni permesse tenendo presente lo stato del procedimento e il ruolo di chi sta visualizzando il procedimento:
 
 - **Guest**: può solo visualizzare i dati del procedimento di definizione senza poter compiere alcuna operazione.
 - **Responsabile Corecom/Agcom**: può compiere tutte le azioni, ad esclusione di quelle riservate al Direttore, sui procedimenti di definizione a lui assegnati.

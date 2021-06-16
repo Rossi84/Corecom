@@ -8,7 +8,7 @@ Assegnazione conciliatore/responsabile del procedimento
 
 .. _section-responsabile:
 
-Gli utenti con ruolo "Segretario Corecom/Agcom" o "Direttore Corecom/Agcom" dovranno assegnare un utente responsabile per ciascun procedimento. L'utente assegnato sarà coloui che potrà operare sull'istanza.
+Gli utenti con ruolo "Segretario Corecom/Agcom" o "Direttore Corecom/Agcom" dovranno assegnare un utente responsabile per ciascun procedimento. L'utente assegnato sarà colui che potrà operare sull'istanza.
 
 L'utente assegnato può essere variato se necessario.
 
@@ -22,7 +22,7 @@ L'utente assegnato può essere variato se necessario.
 Per assegnare un utente o variare quello presente premere su "Assegna responsabile" dalla barra delle azioni. Selezionare l'utente desiderato e premere "Assegna".
 Per le istanze di definizione, alla prima assegnazione sarà necessario procedere anche con la :ref:`firma <section-firma>`.
 
-E' possibile assegnare lo stesso utente resposabile a più istanze selezionandole dalla lista e poi premendo "Assegna".
+E' possibile assegnare lo stesso utente responsabile a più istanze selezionandole dalla lista e poi premendo "Assegna".
 
 .. figure:: /media/assegnazione_multipla_responsabile.png
    :align: center
@@ -86,13 +86,13 @@ Firma
 .. _section-firma:
 
 Per la firma dei verbali le utenze Corecom devono disporre di un kit di firma remota Aruba.
-Gli utenti con ruolo *Segretario operatore* possono, i fase di creazione o modifica delle utenze, inserire lo usename della firma Aruba nel profilo dell'utente.
+Gli utenti con ruolo *Segretario operatore* possono, i fase di creazione o modifica delle utenze, inserire lo username della firma Aruba nel profilo dell'utente.
 Ad ogni firma verrà invece richiesta all'utente la password e l'OPT generato con il dispositivo o le modalità indicate da Aruba.
 
 Gestione richiesta inammissibilità
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Nel caso in cui il gestore abbia sollevato richiesta di inammissibilità, questa pottrà essere gestita dal conciliatore/responsabile del procedimento tramite le apposite azioni presenti sull barra delle azioni.
+Nel caso in cui il gestore abbia sollevato richiesta di inammissibilità, questa potrà essere gestita dal conciliatore/responsabile del procedimento tramite le apposite azioni presenti sull barra delle azioni.
 
 .. figure:: /media/barra_azioni_inammiss.png
    :align: center
@@ -106,7 +106,7 @@ Dalla barra delle azioni è possibile rifiutare la richiesta di inammissibilità
 Per procedere al rifiuto premere "Rifiuta inammissibilità/improcedibilità", selezionare l'operatore, inserire la motivazione e premere "Conferma".
 
 Per procedere invece all'archiviazione per inammissibilità premere "Archiviazione per inammissibilità/improcedibilità", selezionare l'operatore e confermare. Verrà mostrato il verbale di archiviazione, da qui è possibile modificarlo se necessario. Premere "Genera" e confermare.
-Il varbale di archiviazione dovrà essere firmato tramite l'apposita icona sulla barra delle azioni da chi di competenza.
+Il verbale di archiviazione dovrà essere firmato tramite l'apposita icona sulla barra delle azioni da chi di competenza.
 
 Attestazione impossibilità di firma
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -123,7 +123,7 @@ Nel caso in cui una delle parti sia impossibilitata alla firma del verbale, il c
 Download fascicolo documentale
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Dalla varra delle azioni è possibile scaricare un file zip contentete tutti i documenti presenti sul fascicolo documentale.
+Dalla barra delle azioni è possibile scaricare un file zip contenente tutti i documenti presenti sul fascicolo documentale.
 
 .. figure:: /media/barra_azioni_downfascicolo.png
    :align: center

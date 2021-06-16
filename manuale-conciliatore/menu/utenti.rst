@@ -9,7 +9,7 @@ La pagina mostra la lista degli utenti presenti preceduta da una maschera di ric
 
 Per aggiungere un nuovo utente premere il pulsante "Aggiungi utente" e selezionare il ruolo desiderato. Inserire poi i campi richiesti e premere "Crea".
 
-Premendo l'icona con la freccia dall'ultima colonna della tabella è possibile visualizzare i profili associati all'utente. Dalla colonna "Azioni sulle utenze" è possobile modificare i dati relativi al profilo oppure attivare o disattivare tale profilo.
+Premendo l'icona con la freccia dall'ultima colonna della tabella è possibile visualizzare i profili associati all'utente. Dalla colonna "Azioni sulle utenze" è possibile modificare i dati relativi al profilo oppure attivare o disattivare tale profilo.
 
 Se il profilo è disabilitato l'utente non potrà operare con tale profilo.
 

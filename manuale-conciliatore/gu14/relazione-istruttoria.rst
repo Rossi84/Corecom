@@ -20,13 +20,13 @@ Una volta confermata il sistema è in attesa della stesura della relazione istru
    
    Relazione istruttoria
 
-E' possibile redigere la relazione istruttoria in più sessioni di lavoro, per salavare quanto fatto premere "Salva e ricalcola".
+E' possibile redigere la relazione istruttoria in più sessioni di lavoro, per salvare quanto fatto premere "Salva e ricalcola".
 
-Per poter salvare è necessario aver compilato i dati relativi ai disservizi, che sono necessari per il calcolo, oppure eliminare i disservizi non necessari attraverso l'apposito bottone. Se il salvataggio di quanto fatto è andatao a buon fine verrà mostrato un banner verde con un messaggio di successo, altrimenti verrà mostrato un messaggio in rosso sotto ai campi per cui e necessario inserire un valore per il salvataggio.
+Per poter salvare è necessario aver compilato i dati relativi ai disservizi, che sono necessari per il calcolo, oppure eliminare i disservizi non necessari attraverso l'apposito bottone. Se il salvataggio di quanto fatto è andato a buon fine verrà mostrato un banner verde con un messaggio di successo, altrimenti verrà mostrato un messaggio in rosso sotto ai campi per cui e necessario inserire un valore per il salvataggio.
 
 Terminata la stesura premere "Genera la relazione istruttoria" e procedere alla :ref:`firma <section-firma>`.
 
-Nel caso in cui l'utente che ha redatto la relazione istruttoria non abbia i permessi per l'emissione del provvedimento o della delibera, verrà generata la sola bozza e dovrà eserre chi di dovere a riprdendere la relazione istruttoria e confermarla.
+Nel caso in cui l'utente che ha redatto la relazione istruttoria non abbia i permessi per l'emissione del provvedimento o della delibera, verrà generata la sola bozza e dovrà essere chi di dovere a riprendere la relazione istruttoria e confermarla.
 
 Caricamento delibera firmata
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
