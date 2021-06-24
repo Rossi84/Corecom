@@ -16,3 +16,10 @@ Se il profilo è disabilitato l'utente non potrà operare con tale profilo.
 Nel campo "Nome utente della firma remota" è necessario inserire lo username fornito da Aruba per la firma remota dei documenti che saranno prodotti in ConciliaWeb. Nel campo "Dominio per firma remota" inserire il dominio di firma fornito da Aruba se diverso dal valore di default del proprio Corecom presente in tale campo.
 
 Per il ruolo *Segretario Corecom/Agcom*, in modifica, è presente una spunta "Fa le veci direttore". Se tale spunta è stata fatta e salvata l'utente potrà firmare i verbali di competenza del direttore.
+
+.. figure:: /media/mod_utente.png
+   :align: center
+   :name: mod-utente
+   :alt: Modifica utente
+   
+   Modifica utente
