@@ -146,8 +146,8 @@ Per i procedimenti di definizione è possibile vedere la conciliazione relativa 
    Azioni - Fascicoli correlati
 
 
-Eliminazione documento caricato e annullamento verbale
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Eliminazione documento caricato
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Nel caso venga caricato erroneamente sul fascicolo documentale un documento, è possibile eliminarlo fino a due giorni dopo la chiusura del procedimento. Tale funzione è disponibile solo per l'utente che ha effettuato il caricamento. 
 Per eliminarlo accedere al fascicolo documentale e premere "Elimina documento" in corrispondenza del documento errato.
@@ -167,6 +167,9 @@ Per eliminarlo accedere al fascicolo documentale e premere "Elimina documento" i
    Firma eliminazione documento da fascicolo documentale
    
 Inserire la motivazione e firmare.
+
+Annullamento verbale
+~~~~~~~~~~~~~~~~~~~~
 
 E' possibile inoltre procedere, se necessario all'annullamento dei seguenti verbali in presenza di firme già effettuate:
 
