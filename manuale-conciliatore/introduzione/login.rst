@@ -1,13 +1,9 @@
 Login
 ==========
 
-.. important::
+Per accedere a ConciliaWeb, una volta profilati nel sistema, è necessario possedere un profilo `SPID <https://www.spid.gov.it/>`_, `Carta d'identità elettronica (CIE) <https://www.cartaidentita.interno.gov.it/>`_ o `eIDAS <https://www.eid.gov.it/>`_ riferito a persona fisica.
 
-   Per tutti gli utenti Corecom/Agcom è obbligatorio l'accesso SPID. L'account deve essere riferito a persona fisica.
-
-Per accedere a ConciliaWeb, una volta profilati nel sistema, è necessario possedere un profilo SPID.
-
-Per accedere premere il bottone "Entra con SPID", selezionare il provider fornitore del proprio account SPID e seguire i passi mostrati.
+Per accedere con SPID premere il bottone "Entra con SPID", selezionare il provider fornitore del proprio account SPID e seguire i passi mostrati.
 
 .. figure:: /media/login.png
    :align: center
