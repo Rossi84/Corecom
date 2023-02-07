@@ -1,5 +1,5 @@
-Istanza di conciliazione (Modello UG)
-=====================================
+Istanza di conciliazione (Modello UG e SMA)
+===========================================
 
 In questa sezione saranno analizzate le azioni possibili sui singoli procedimenti di conciliazione, in funzione dello stato in cui si trova il procedimento e da chi possono essere fatte.
 

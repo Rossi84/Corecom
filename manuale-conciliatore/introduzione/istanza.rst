@@ -177,7 +177,7 @@ E' possibile inoltre procedere, se necessario all'annullamento dei seguenti verb
 * Verbale di mancato accordo in udienza
 * Verbale di mancata comparizione in udienza
 
-Tale operazione può essere effettuata dal redattore del verbale entro cinque giorni dalla sua stesura.
+Tale operazione può essere effettuata dal redattore del verbale entro trenta giorni dalla sua stesura.
 
 .. figure:: /media/annullamento_verbale.png
    :align: center

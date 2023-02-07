@@ -1,5 +1,5 @@
-Istanza di definizione (Modello GU14)
-=====================================
+Istanza di definizione (Modello GU14 e SMA)
+===========================================
 
 In questa sezione saranno analizzate le azioni possibili sui singoli procedimenti di definizione, in funzione dello stato in cui si trova il procedimento e da chi possono essere fatte.
 
