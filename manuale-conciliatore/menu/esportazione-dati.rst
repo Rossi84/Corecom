@@ -33,7 +33,7 @@ Aprire un nuovo foglio di lavoro vuoto di Microsoft Excel. Dal menù **Dati**, s
 
 Selezionare **Trasforma Dati** eventualmente per eliminare le colonne che non faranno parte dell'elaborazione (es descrizione del problema, iban cliente etc), oppure su **Carica** per visualizzare tutti i dati scaricati. 
 
-.. figure:: /media/esportazione_dati3.png
+.. figure:: /media/esportazione_dati4.png
    :align: center
    :name: esportazione-dati4
    :alt: Esportazione dati4 
