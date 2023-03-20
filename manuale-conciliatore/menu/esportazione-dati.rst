@@ -39,3 +39,5 @@ Selezionare **Trasforma Dati** eventualmente per eliminare le colonne che non fa
    :alt: Esportazione dati4 
    
    Esportazione dati istanze Passo 4
+
+
