@@ -44,8 +44,7 @@ Selezionare **Trasforma Dati**  per eliminare le colonne che non faranno parte d
 Calcolare la durata procedimentale
 ==================================
 
-Dal menù **Trasforma Dati** selezionale la colonna **Data fine** nel foglio di lavoro. Con il tasto destro del mouse, selezionare **Trasforma tipo** da **Data/Ora** in **Data**.
-Dal menù **Aggiungi colonna**, selezionare colonna personalizzata ed aggiungere la formula =Duration.Days([Data fine]-[Data istanza]) per calcolare la durata dei procedimenti in giorni.
+Dal menù **Trasforma Dati** selezionale la colonna **Data fine** nel foglio di lavoro. Con il tasto destro del mouse, selezionare **Trasforma tipo** da **Data/Ora** in **Data**. Dal menù **Aggiungi colonna**, selezionare colonna personalizzata ed aggiungere la formula =Duration.Days([Data fine]-[Data istanza]) per calcolare la durata dei procedimenti in giorni.
 
 .. figure:: /media/esportazione_dati5.png
    :align: center
@@ -53,6 +52,8 @@ Dal menù **Aggiungi colonna**, selezionare colonna personalizzata ed aggiungere
    :alt: Elaborazione dati5
    
    Elaborazione dati Passo 5
+
+Inserire la formula 
 
 .. figure:: /media/esportazione_dati6.png
    :align: center
