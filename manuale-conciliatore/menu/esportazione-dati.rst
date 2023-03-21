@@ -18,15 +18,15 @@ Aprire un nuovo foglio di lavoro Microsoft Excel. Dal menù **Dati**, selezionar
 
 .. figure:: /media/esportazione_dati2.png
    :align: center
-   :name: esportazione-dati2
-   :alt: Esportazione dati2
+   :name: Elaborazione-dati2
+   :alt: Elaborazione dati2
    
-   Esportazione dati Passo 2
+   Elaborazione dati Passo 2
 
 .. figure:: /media/esportazione_dati3.png
    :align: center
-   :name: esportazione-dati3
-   :alt: Esportazione dati3
+   :name: Elaborazione-dati3
+   :alt: Elaborazione dati3
    
    Elaborazione dati Passo 3
 
@@ -35,8 +35,8 @@ Selezionare **Trasforma Dati**  per eliminare le colonne che non faranno parte d
 
 .. figure:: /media/esportazione_dati4.png
    :align: center
-   :name: esportazione-dati4
-   :alt: Esportazione dati4 
+   :name: Elaborazione-dati4
+   :alt: Elaborazione dati4 
    
    Elaborazione dati Passo 4
 
@@ -49,15 +49,14 @@ Dal menù **Aggiungi colonna**, selezionare colonna personalizzata ed aggiungere
 
 .. figure:: /media/esportazione_dati5.png
    :align: center
-   :name: esportazione-dati5
-   :alt: Esportazione dati5
+   :name: Elaborazione-dati5
+   :alt: Elaborazione dati5
    
    Elaborazione dati Passo 5
 
-
 .. figure:: /media/esportazione_dati6.png
    :align: center
-   :name: esportazione-dati6
-   :alt: Esportazione dati6
+   :name: Elaborazione-dati6
+   :alt: Elaborazione dati6
    
    Elaborazione dati Passo 6
