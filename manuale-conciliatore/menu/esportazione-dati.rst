@@ -39,7 +39,7 @@ Dal menù **Trasforma Dati** selezionale la colonna **Data fine** nel foglio di 
    
 Inserire la formula 
 
-.. figure:: /media/esportazione_dati6.png
+.. figure:: /media/esportazione_dati7.png
    :align: center
    :name: Elaborazione-dati6
    :alt: Elaborazione dati6
