@@ -168,29 +168,31 @@ Per eliminarlo accedere al fascicolo documentale e premere "Elimina documento" i
    
 Inserire la motivazione e firmare.
 
-Annullamento verbale
-~~~~~~~~~~~~~~~~~~~~
+Annullamento azione
+~~~~~~~~~~~~~~~~~~~
 
-E' possibile inoltre procedere, se necessario all'annullamento dei seguenti verbali in presenza di firme già effettuate:
+L'autore dell'azione potrà annullarla e riportare l'istanza alla situazione che era presente prima di tale operazione entro trenta giorni dal suo compimento. 
+Se disponibile, la funzioanlità di annullamento sarà disponibile nel menù di destra nel dettaglio del procedimento:
 
-* Verbale di accordo in udienza
-* Verbale di mancato accordo in udienza
-* Verbale di mancata comparizione in udienza
-
-Tale operazione può essere effettuata dal redattore del verbale entro trenta giorni dalla sua stesura.
-
-.. figure:: /media/annullamento_verbale.png
+.. figure:: /media/annullamento_azione.png
    :align: center
-   :name: annullamento-verbale
-   :alt: Annullamento verbale
+   :name: annullamento-azione
+   :alt: Annullamento azione
    
-   Annullamento verbale
+   Annullamento azione
    
-.. figure:: /media/annullamento_verbale_firma.png
+   .. figure:: /media/annullamento_azione_motivazione.png
    :align: center
-   :name: annullamento-verbale-firma
-   :alt: Annullamento verbale firma
+   :name: annullamento-azione-motivazione
+   :alt: Annullamento azione motivazione
    
-   Firma annullamento verbale
+   Inserimento motivazione
+   
+.. figure:: /media/annullamento_azione_firma.png
+   :align: center
+   :name: annullamento-azione-firma
+   :alt: Annullamento azione firma
+   
+   Firma annullamento azione
 
 Inserire la motivazione e firmare.

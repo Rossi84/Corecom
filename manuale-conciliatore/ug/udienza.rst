@@ -29,6 +29,24 @@ Convocando l'udinza verrà generato il verbale di convocazione, visibile sul :re
 
 Qualora il conciliatore non abbia provveduto a convocare l'udienza entro il minimo preavviso dalla data individuata automaticamente dal sistema, l'udinza verrà convocata in automatico per tale data al raggiungimento del minimo preavviso.
 
+La convocazione dell'udienza, fuori dalla pianificazione del calendario, può essere fatta anche su più istanze contemporaneamente, selezionandole dalla lista:
+
+.. figure:: /media/conv_udienza_multipla.png
+   :align: center
+   :name: conv-udienza-multipla
+   :alt: Convocazione udienza su più istanze contemporaneamente
+   
+   Convocazione udienza su più istanze contemporaneamente
+   
+.. figure:: /media/conv_udienza_multipla_firma.png
+   :align: center
+   :name: conv-udienza-multipla-firma
+   :alt: Firma per convocazione udienza su più istanze contemporaneamente
+   
+   Firma per convocazione udienza su più istanze contemporaneamente
+   
+Inserire i dati per l'udienza e la firma. L'udienza può essere svolta in virtual room o in modalità esterna.
+
 Differimento udienza
 ~~~~~~~~~~~~~~~~~~~~
 

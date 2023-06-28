@@ -9,6 +9,7 @@ Questo capitolo descrive le funzionalità presenti sul menù per le varie figure
   :caption: Menù
 
   menu/esportazione-dati.rst
+  menu/performance.rst
   menu/utenti.rst
   menu/procedimenti-firma.rst
   menu/lista-procedimenti.rst
