@@ -19,3 +19,4 @@ Entrando nel dettaglio del provvedimento temporaneo è possibile accedere alla b
 
   gu5/fascicolo-documentale.rst
   gu5/provvedimento.rst
+  gu5/verifica-ottemperanza.rst
